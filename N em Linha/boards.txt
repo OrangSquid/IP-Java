@@ -1,0 +1,16 @@
+3
+5 3 3
+xoo
+ox.
+.ox
+oox
+.x.
+3 3 3
+.xo
+xox
+ox.
+4 5 3
+.o.x.
+xox..
+.x...
+.ooo.
